@@ -1,4 +1,4 @@
 /venv
-/Models/__pycache__
 /.idea
 .env
+**/__pycache__/
